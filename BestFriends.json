@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Diego Arredondo",
+    "hobby": "Cocinar",
+    "age": "20",
+    "phone": "3349579841",
+    "address": "Av. Manuel Acuña 2929, Terranova, 44689 Guadalajara, Jal."
+  },
+  {
+    "name": "Fabian Ramirez",
+    "hobby": "Tocar la guitarra",
+    "age": "21",
+    "phone": "3359844370",
+    "address": "Av. México 3300, Monraz, 44670 Guadalajara, Jal."
+  },
+  {
+    "name": "Santiago Aragon",
+    "hobby": "Jugar Switch",
+    "age": "21",
+    "phone": "3311840359",
+    "address": "Av. Ludwig Van Beethoven 5689, La Estancia, 45030 Zapopan, Jal."
+  },
+  {
+    "name": "Gustavo Flores",
+    "hobby": "Jugar Clone Hero",
+    "age": "22",
+    "phone": "3387431389",
+    "address": "Emiliano Zapata 49, Sta María del Pueblito, 45018 Zapopan, Jal."
+  },
+  {
+    "name": "Fabian Ramirez",
+    "hobby": "Tocar la guitarra",
+    "age": "21",
+    "phone": "3364439424",
+    "address": "Justo sierra 3317, Vallarta San Jorge, 44690 Guadalajara, Jal."
+  },
+  {
+    "name": "Guillermo Rivas",
+    "hobby": "Videojuegos y Música",
+    "age": "35",
+    "phone": "3352923107",
+    "address": "Av Rafael Sanzio 378, La Estancia, 45030 Zapopan, Jal."
+  },
+  {
+    "name": "Denissy Bocanegra",
+    "hobby": "Tocar el Ukulele",
+    "age": "22",
+    "phone": "3336693434",
+    "address": "Homero 108, Vallarta San Jorge, 44690 Guadalajara, Jal."
+  },
+  {
+    "name": "Alberto Labrada",
+    "hobby": "Tocar la guitarra",
+    "age": "21",
+    "phone": "333340164",
+    "address": "Av. Ludwig Van Beethoven 5262, La Estancia, 45030 Zapopan, Jal."
+  }
+  
+  
+]
